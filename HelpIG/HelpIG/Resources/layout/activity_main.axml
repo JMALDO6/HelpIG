@@ -13,8 +13,8 @@
         app:boxedEdges="all">
         <TextView
             android:id="@+id/text"
+            android:text="Hackathon IG"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/hello_world" />
+            android:layout_height="wrap_content" />
     </FrameLayout>
 </android.support.wear.widget.BoxInsetLayout>
